@@ -322,7 +322,7 @@ defaults = {
     "dist_a": 0.0, "dist_b": 0.0, "dist_c": 0.0,
     "eq_a": "", "eq_b": "", "eq_c": "",
     "circles_drawn": False,
-    "epicenter_lat": 0.0, "epicenter_lon": 0.0,
+    "epicenter_lat": 35.0, "epicenter_lon": 128.0,
     "show_result": False,
 }
 for k, v in defaults.items():
